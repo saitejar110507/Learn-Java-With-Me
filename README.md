@@ -2,6 +2,10 @@
 
 Welcome to the Java Notes repository! This repository contains my personal notes on Java programming, intended to help others learn and understand various Java concepts. 💻
 
+# Direct access :
+
+Direct access by clicking here [clicking here](https://saitejar110507.github.io/Learn-Java-With-Me/). Once you’re inside, you can start reading the notes online or download the `.doc` files. 📥
+
 ## Table of Contents 📝
 - [Introduction](#introduction)
 - [Topics Covered](#topics-covered)
