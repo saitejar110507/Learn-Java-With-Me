@@ -3,10 +3,11 @@
 Welcome to the Java Notes repository! This repository contains my personal notes on Java programming, intended to help others learn and understand various Java concepts. 💻
 
 ## Table of Contents 📝
-- [Introduction](#Introduction-📖)
+- [Introduction](#introduction-📖)
 - [Topics Covered](#topics-covered)
 - [How to Use](#how-to-use)
-- [Contributing](#Contributing-🤝)
+- [Contributing](#contributing-🤝)
+
 
 ## Introduction 📖
 This repository holds my personal Java notes, covering essential and advanced topics in Java programming. It is designed to be a study guide for anyone learning Java or refreshing their skills. 🌱
