@@ -57,7 +57,7 @@ This repository holds my personal Java notes, covering essential and advanced to
 
 ## How to Use
 
-You can access the repository by [clicking here](https://github.com/saitejar110507/java-notes). Once you’re inside, you can download the `.doc` files and start reading the notes. 📥
+You can access the repository by [clicking here](https://saitejar110507.github.io/Learn-Java-With-Me/). Once you’re inside, you can download the `.doc` files and start reading the notes. 📥
 
 ---
 
