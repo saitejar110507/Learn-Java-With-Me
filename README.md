@@ -3,16 +3,16 @@
 Welcome to the Java Notes repository! This repository contains my personal notes on Java programming, intended to help others learn and understand various Java concepts. 💻
 
 ## Table of Contents 📝
-- [Introduction](#introduction-📖)
+- [Introduction](#introduction)
 - [Topics Covered](#topics-covered)
 - [How to Use](#how-to-use)
-- [Contributing](#contributing-🤝)
+- [Contributing](#contributing)
 
 
-## Introduction 📖
+## Introduction
 This repository holds my personal Java notes, covering essential and advanced topics in Java programming. It is designed to be a study guide for anyone learning Java or refreshing their skills. 🌱
 
-## Topics Covered 📚
+## Topics Covered
 
 ### Contents at a Glance 👀
 
@@ -55,13 +55,13 @@ This repository holds my personal Java notes, covering essential and advanced to
 37. Introducing JShell 🖥️
 38. Compile and Run Simple Single-File Programs in One Step ⏩
 
-## How to Use 💡
+## How to Use
 
 You can access the repository by [clicking here](https://github.com/saitejar110507/java-notes). Once you’re inside, you can download the `.doc` files and start reading the notes. 📥
 
 ---
 
-## Contributing 🤝
+## Contributing
 
 If you'd like to contribute to this repository, follow these steps:
 
