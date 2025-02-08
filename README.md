@@ -3,7 +3,7 @@
 Welcome to the Java Notes repository! This repository contains my personal notes on Java programming, intended to help others learn and understand various Java concepts. 💻
 
 ## Table of Contents 📝
-- [Introduction](#introduction)
+- [Introduction](#Introduction-📖)
 - [Topics Covered](#topics-covered)
 - [How to Use](#how-to-use)
 - [Contributing](#contributing)
