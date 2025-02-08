@@ -7,7 +7,6 @@ Welcome to the Java Notes repository! This repository contains my personal notes
 - [Topics Covered](#topics-covered)
 - [How to Use](#how-to-use)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 This repository holds my personal Java notes, covering essential and advanced topics in Java programming. It is designed to be a study guide for anyone learning Java or refreshing their skills.
@@ -61,13 +60,9 @@ You can access the repository by [clicking here](https://github.com/saitejar1105
 
 ---
 
-### How to Customize:
-1. **Repository Name**: Replace `Java Notes Repository` with the name of your repository.
-2. **Topics Covered**: Add or modify the topics covered section according to what your notes include.
-3. **GitHub Username**: Replace `saitejar110507` with your actual GitHub username in the `https://github.com/saitejar110507/` URL.
-4. **Contributing**: Feel free to add more specific guidelines for contributions if needed.
-5. **License**: You can update the license section if you are using a different type of license.
-
+### How to Use:
+1. **GitHub Username**: Replace `saitejar110507` with your actual GitHub username in the `https://github.com/saitejar110507/`
+2. **Notes**: Replace `Learn Java With Me` with your actual GitHub username in the `https://github.com/saitejar110507/Learn-Java-With-Me/`
 ---
 
 ## Contributing
