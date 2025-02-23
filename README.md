@@ -2,25 +2,37 @@
 
 # [You can also visit here](https://saitejar110507.github.io/Learn-Java-With-Me-2.0/)
 
+## 📑 Table of Contents
+- [📌 Introduction to Programming Language](#-introduction-to-programming-language)
+- [🚀 Java Programming Language](#-java-programming-language)
+- [🛠 Main Features of Java](#-main-features-of-java)
+- [📜 Birth Of Java](#-birth-of-java)
+- [🎯 Principles of Java](#-principles-of-java)
+- [🌐 How Java Impacted the Internet](#-how-java-impacted-the-internet)
+  - [📌 Java Applet](#-java-applet)
+- [🏢 Who Owns Java Now?](#-who-owns-java-now)
+- [🔍 Uses Of Java](#-uses-of-java)
+- [🏷 Versions of Java](#-versions-of-java)
+
 ## 📌 Introduction to Programming Language
 Programming languages differ from natural languages in that natural languages are used for interaction between people, while programming languages are designed to allow humans to communicate instructions to machines.
 
-[🔝 Back to Top](#☕-java-programming-language)
+[🔝 Back to Top](#-table-of-contents)
 
 ## 🚀 Java Programming Language
 Java is a high-level, class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible.
 
-[🔝 Back to Top](#☕-java-programming-language)
+[🔝 Back to Top](#-table-of-contents)
 
 ### 🛠 Main Features of Java
 Java is a general-purpose programming language intended to let programmers "write once, run anywhere," meaning that compiled Java code can run on all platforms that support Java without the need to recompile.
 
-[🔝 Back to Top](#☕-java-programming-language)
+[🔝 Back to Top](#-table-of-contents)
 
 ## 📜 Birth Of Java
 Java was conceived by James Gosling, Patrick Naughton, Chris Warth, Ed Frank, and Mike Sheridan at Sun Microsystems, Inc. in 1991. It took 18 months to develop the first working version. This language was initially called "Oak," but was renamed "Java" in 1995. Between the initial implementation of Oak in 1992 and the public announcement of Java in 1995, many more people contributed to the design and evolution of the language.
 
-[🔝 Back to Top](#☕-java-programming-language)
+[🔝 Back to Top](#-table-of-contents)
 
 ## 🎯 Principles of Java
 There were five primary goals in creating the Java language:
@@ -30,12 +42,12 @@ There were five primary goals in creating the Java language:
 4. ⚡ It must execute with high performance.
 5. 🔄 It must be interpreted, threaded, and dynamic.
 
-[🔝 Back to Top](#☕-java-programming-language)
+[🔝 Back to Top](#-table-of-contents)
 
 ## 🌐 How Java Impacted the Internet
 Java simplified web programming and introduced a new type of networked program called the *Applet*, which changed online content delivery. Java also addressed issues such as portability and security.
 
-[🔝 Back to Top](#☕-java-programming-language)
+[🔝 Back to Top](#-table-of-contents)
 
 ### 📌 Java Applet
 - *Java Applets*: Java programs running in browsers, enabling interactive web features.
@@ -46,12 +58,12 @@ Java simplified web programming and introduced a new type of networked program c
 
 💡 Fun Fact: JavaScript was named after Java, but they are different languages.
 
-[🔝 Back to Top](#☕-java-programming-language)
+[🔝 Back to Top](#-table-of-contents)
 
 ## 🏢 Who Owns Java Now?
 Java is owned by Oracle, and more than 3 billion devices run Java.
 
-[🔝 Back to Top](#☕-java-programming-language)
+[🔝 Back to Top](#-table-of-contents)
 
 ## 🔍 Uses Of Java
 - 📱 Mobile applications (especially Android apps)
@@ -62,7 +74,7 @@ Java is owned by Oracle, and more than 3 billion devices run Java.
 - 📊 Database connection
 - And much more!
 
-[🔝 Back to Top](#☕-java-programming-language)
+[🔝 Back to Top](#-table-of-contents)
 
 ## 🏷 Versions of Java
 
@@ -94,7 +106,7 @@ Java is owned by Oracle, and more than 3 billion devices run Java.
 | Java SE 22 | March 19, 2024 |
 | Java SE 23 | September 17, 2024 |
 
-[🔝 Back to Top](#☕-java-programming-language)
+[🔝 Back to Top](#-table-of-contents)
 
 ---
 📺 Didn’t understand? No problem: [Watch a video tutorial](#).
